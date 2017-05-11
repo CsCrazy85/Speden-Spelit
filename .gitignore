@@ -1,3 +1,14 @@
+#remove these
+.ccsproject
+.cproject
+.exclude
+.project
+lnk_msp430g2553.cmd
+Debug/
+.launches/
+.settings/
+targetConfigs/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
